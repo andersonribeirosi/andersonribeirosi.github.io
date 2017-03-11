@@ -1,0 +1,65 @@
+*{
+
+	box-sizing: border-box;
+}
+
+
+body{
+	background-color: white;
+	margin: 0;
+	
+}
+
+
+header{
+	background-color: #212121;
+	text-align: center;
+	padding: 20px;
+	/*width: 100%;*/
+	font-family: 'Ranga', cursive;
+	color: white;
+	/*border-radius: 20px;*/
+}
+
+	header .profile-picture {
+		width: 125px;
+		height: 125px;
+		display: block;
+		margin: 0 auto;
+		border-radius: 50px;
+
+	}
+
+
+section{
+	background-color: #BDBDBD;
+	padding: 15px;
+	margin: 25px;
+	border-radius: 10px;
+	
+}
+
+section .title{
+	color: #212121;
+
+}
+
+section .content{
+	color: #263238;
+
+}
+
+
+
+footer{
+	background-color: #212121;
+	/*background-color: #778899;*/
+	padding: 15px;
+	color: white;
+	text-align: center;
+	/*width: 100%;*/
+	/*position: absolute;
+	bottom: 0;*/
+}
+
+
